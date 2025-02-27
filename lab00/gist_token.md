@@ -1,3 +1,3 @@
 # Получение токена gist
 
-![settings](img/settings.png)
+![settings](img/Settings.png)
