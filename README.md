@@ -16,6 +16,8 @@
 
 Задание можно найти по ссылке: [https://github.com/tp-labs/lab01](https://github.com/tp-labs/lab01)
 
+[Пример выполнения](https://gist.github.com/tp-lessons/d280d2d47aeba63c7bcb87d2b745a091) 
+
 ## Лабораторная работа №2
 
 ## Лабораторная работа №3
